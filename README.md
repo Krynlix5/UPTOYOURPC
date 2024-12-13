@@ -24,13 +24,18 @@ Este repositorio es un codigo realizado con python para mostrar en discord el es
 2. Debes ejecutar el archivo setup.py.
 3. Incia el .bat llamado startrpc.
 
+### 📚 Instalación módulos :
+```
+python setup.py
+```
+
 > [!WARNING] 
 > Asegurate de haber instalado python y su módulos antes de ejecutar el programa.
 
 > [!CAUTION] 
 > **No toques ninguna configuración del archivo config.ini, ya que dejara de funcionar**.
 
-### Recomendaciones:
+### 💡 Recomendaciones:
 
 - Verificar que se tienen los módulos y la versión de python necesaria para poder ejecutar el programa.
 
