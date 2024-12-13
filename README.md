@@ -5,7 +5,7 @@ Este repositorio es un codigo realizado con python para mostrar en discord el es
 ## 📁 Estructura del Proyecto
 
 ```bash
-📦  CustomRPC
+📦  UPTOYOURPC
  ┣ 📂 uptoyou/
  ┃ ┣ 📜 config.ini
  ┃ ┣ 📜 requirements.txt
