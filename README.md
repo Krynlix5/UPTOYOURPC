@@ -18,7 +18,7 @@ Este repositorio es un codigo realizado con python para mostrar en discord el es
 
 ## 🚀 Instalación
 
-### Para utilizar el RPC    :
+### 🔎 Para utilizar el RPC    :
 
 1. Descarga el Python(recomendable la última versión).
 2. Debes ejecutar el archivo setup.py.
