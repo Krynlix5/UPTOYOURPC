@@ -1,6 +1,6 @@
 # 📈 UPTOYOURNETWORK DISCORD RICHPRESENCE 📈
 
-Este repositorio es un codigo realizado con python para mostrar en discord el estado de la comunidad UPTOYOU, se necesita [Pyhton](https://www.python.org/downloads/)
+Este repositorio es un codigo realizado con python para mostrar en discord el estado de la comunidad UPTOYOU, se necesita [Python](https://www.python.org/downloads/)
 
 ## 📁 Estructura del Proyecto
 
